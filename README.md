@@ -1,5 +1,7 @@
 # Discord Nitro Generator
 
+**Note:** This exploit has been reported directly to Discord and a fix has been applied as of 21/12/2023. All information in this document is thusly outdated and exists for educational purposes only.
+
 This Python script automates the generation of free one-month Discord Nitro trial URLs by exploiting a security oversight in Opera GX's current Discord Nitro promotion. 
 
 ## Installation
